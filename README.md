@@ -109,7 +109,7 @@ The framework uses datasets derived from real estate websites and enriched via A
 
 ## 👨‍💻 Authors
 
-- **Y. Manikanta** 
+- **Y. Vishnuvardhan** 
 
 
 ## 📜 License
@@ -124,7 +124,7 @@ We welcome contributions and feedback!
 Feel free to fork the repo, raise issues, or submit pull requests.
 
 📧 Contact Emails:
-- manikantayeduri0528@example.com
+- yedurivishnuvardhan@gmailcom
 
 
 ---
